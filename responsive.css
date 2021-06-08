@@ -1,0 +1,17 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  .product {
+    width: 50%;
+    padding-bottom: 20px;
+    background-color: #7c8c5a;
+  }
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  .product {
+    width: 100%;
+    padding-bottom: 20px;
+    background-color: #7c8c5a;
+  }
+}

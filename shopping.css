@@ -1,0 +1,42 @@
+.shopping {
+  background-color: #7c8c5a;
+  max-height: 650px;
+  height: 650px;
+  padding-top: 5px;
+}
+
+.shopping-title h2 {
+  text-align: center;
+}
+h4 {
+  margin-top: -10px;
+}
+
+.products {
+  text-align: center;
+}
+.product {
+  float: left;
+  width: 25%;
+}
+
+.images {
+  border-radius: 10px;
+}
+.desc {
+  background-color: blue;
+}
+.content {
+  box-shadow: 0px 0px 1px 1px #ffff;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 10px;
+}
+.beli {
+  border-radius: 7px;
+  width: 100px;
+  background-color: whitesmoke;
+  padding: 3px;
+}
